@@ -1,0 +1,57 @@
+.container{
+    background-color: aliceblue;
+    
+    width:60%;
+    margin-left: 20%;
+    background-size: cover;
+    border:5px solid black;
+}
+.top_section{
+    display:flex;
+    justify-content:space-between;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.content{
+    margin: 0 auto;
+}
+
+.heading{
+    font-size: 40px;
+    font-weight: bold;
+    margin-right: 70px;
+}
+.para{
+    font-size: 20px;
+    text-align: right;
+    margin-right: 70px;
+}
+.body_container{
+    text-align: left;
+    justify-content: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.bio{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+li{
+   
+    margin-left: 10px;
+    margin-bottom: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bp{
+    line-height: 30px;
+    letter-spacing: 1.2px;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+  margin-right: 20px;
+  margin-top: 20px;
+}
+footer p{
+    text-align:end;
+
+}
